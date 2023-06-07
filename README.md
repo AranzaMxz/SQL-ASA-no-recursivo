@@ -1,3 +1,3 @@
 # Practicas-SQL
 
-Analizador Sintáctico Descendente no recursivo LL(1)
+Analizador Sintáctico Ascendente no recursivo SRL
