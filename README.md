@@ -1,2 +1,3 @@
-# SQL-ASA-no-recursivo
-Analizador Sintáctico Ascendente no recursivo SLR
+# Practicas-SQL
+
+Analizador Sintáctico Descendente no recursivo LL(1)
